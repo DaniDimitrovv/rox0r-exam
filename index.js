@@ -21,4 +21,8 @@ app.listen(port, () => {
   else 
     throw err;
 });
+<<<<<<< HEAD
 'test3'
+=======
+'test4'
+>>>>>>> 8ed897e (test_4)
